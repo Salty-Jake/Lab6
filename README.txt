@@ -1,1 +1,2 @@
-Inputs a name and prints it out
+Inputs a name and age and prints it out
+#true
